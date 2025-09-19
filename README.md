@@ -9,8 +9,8 @@ Collaborative Filtering (finding users with similar tastes).
 
 Matrix Factorization (SVD) to capture hidden patterns in ratings.
 
-**2. Libraries used
-**
+**2. Libraries used**
+
 The project imports essential Python libraries such as:
 
 pandas, numpy → for handling datasets.
@@ -21,8 +21,8 @@ scikit-learn → for model evaluation.
 
 surprise → for building recommender systems with SVD (Singular Value Decomposition).
 
-**3. Dataset & preprocessing
-**
+**3. Dataset & preprocessing**
+
 The dataset contains:
 
 Users (identified by IDs).
@@ -51,8 +51,8 @@ Most Active Users → Some users contributed many ratings.
 
 Highest Rated Movies (with enough votes) → Helps avoid skewed averages.
 
-****5. User-Based Recommendations
-****
+**5. User-Based Recommendations**
+
 Built a user–movie matrix (rows = users, columns = movies, values = ratings).
 
 Found similar users based on rating patterns.
@@ -91,8 +91,8 @@ Lower RMSE = better recommendations.
 
 The results showed that SVD performed well, better than basic methods.
 
-**9. Conclusion
-**
+**9. Conclusion**
+
 The project successfully built a personalized recommender system.
 
 It combined:
