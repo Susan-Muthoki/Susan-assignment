@@ -1,5 +1,6 @@
 # Susan-Muthoki-s-Assignment
 Report: Netflix Personalized Movie Recommender System
+
 **1. Project overview**
 
 This project builds a personalized movie recommender system for Netflix users.
